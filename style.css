@@ -1,0 +1,91 @@
+/* Sanchit ARora
+ RedID : 820883616 
+ Account : jadrn003   
+*/
+
+.nav-style{
+    position: absolute;
+    min-width:1200px;  
+    width: 100%;
+    height: 48px;
+    background: #000;
+    margin: 0;
+    padding: 0;
+    font-size: 17px;
+    color: #fff;
+    min-height: 48px;
+ 
+}
+#header {
+    background: #f3f3f7;
+}
+
+#header-bar {
+    background: #00747f;
+    min-height: 31px;
+    color: #fff;
+    padding-top: 6px;
+}
+#logo {
+    margin: 0 auto;
+    padding: 20px 22px 15px;
+    text-align: center;
+}
+#navbar {
+    background: #002c5c;
+}
+#nav {
+    list-style: none;
+    float: none;
+    display: none;
+}
+
+
+@media (min-width: 767px) {
+#header .wrapper {
+    overflow: visible;
+}}
+
+.wrapper h1 {
+    
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+    width: 100%;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    vertical-align: middle;
+    display: inline-block;
+    font-family: "Verdana", "Geneva", sans-serif;
+}
+ .a-nav{
+    text-align: left;
+    margin: auto;
+    padding: 10px 20px;
+    color:#fff;
+    font-size: 24px;
+    vertical-align: middle;
+    display: inline;
+    font-family: "Verdana", "Geneva", sans-serif;
+}
+ul>li{
+    display: inline;
+}
+a.page-header>h2 , a.page-header:hover , a.a-nav:hover{
+    text-decoration: none;
+    text-decoration-style: none;
+}
+
+#logo {
+    margin: 0 auto;
+    padding: 20px 22px 15px;
+    text-align: center;
+}
+.home-banner {
+	width: 100%;
+	height: auto;
+}
+#navbar ul{
+    margin-bottom: 0px;
+}
